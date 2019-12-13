@@ -1,1 +1,4 @@
 # Linux_device_drivers_study
+
+记录自己学习Linux设备驱动的一些代码
+使用的板子有讯为的ITop4412和正点原子的I.MX6ULL开发板
